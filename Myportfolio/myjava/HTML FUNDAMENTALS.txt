@@ -1,0 +1,14 @@
+HTML FUNDAMENTALS
+
+Expectations
+ -how to create website
+ -learn different tag names
+ -learn elements of HTML
+ -how to display images and videos
+ -how to view HTML source code
+ -how to insert data to your website
+ -how to learn HTML attributes.
+
+
+
+

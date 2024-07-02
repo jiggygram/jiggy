@@ -1,0 +1,26 @@
+public class CandidateEligibility{
+     public static void main(String[]args){
+              int candidateAge = 30;
+              Boolean isPartyMember = true;
+              switch (candidateAge) {
+                  case 35:
+system.out.println(Eligible for presidency);
+                  break;
+                 case 30:
+system.out.println(Eligible for governoship);
+                 break;
+              case 25:
+system.out.println(Eligible for senatorship);
+               break;
+            case 21:
+system.out.println(Eligible for House of representatives seat);
+              breal;
+             default:
+system.out.println(Not Eligible due to Age);
+}
+ if (is PartyMember){
+      system.out.println("not eligible ")
+
+
+
+
